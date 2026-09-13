@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /case-studies/
+Sitemap: https://tayyabafakhar.xingabot.com/sitemap.xml
